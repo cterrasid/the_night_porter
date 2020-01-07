@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1049BD6623C4A81A000FC295 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1049BD6523C4A81A000FC295 /* Task.swift */; };
 		10BAB69C23B9ECA0006E59A8 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BAB69B23B9ECA0006E59A8 /* DetailViewController.swift */; };
 		10BF401523B61DFF0016F5B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BF401423B61DFF0016F5B7 /* AppDelegate.swift */; };
 		10BF401723B61DFF0016F5B7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BF401623B61DFF0016F5B7 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1049BD6523C4A81A000FC295 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		10BAB69B23B9ECA0006E59A8 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		10BF401123B61DFF0016F5B7 /* the-night-porter_table-view.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "the-night-porter_table-view.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		10BF401423B61DFF0016F5B7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				10BF401423B61DFF0016F5B7 /* AppDelegate.swift */,
 				10BF401623B61DFF0016F5B7 /* ViewController.swift */,
+				1049BD6523C4A81A000FC295 /* Task.swift */,
 				10BF401823B61DFF0016F5B7 /* Main.storyboard */,
 				10BAB69B23B9ECA0006E59A8 /* DetailViewController.swift */,
 				10BF401B23B61E000016F5B7 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1049BD6623C4A81A000FC295 /* Task.swift in Sources */,
 				10BAB69C23B9ECA0006E59A8 /* DetailViewController.swift in Sources */,
 				10BF401723B61DFF0016F5B7 /* ViewController.swift in Sources */,
 				10BF401523B61DFF0016F5B7 /* AppDelegate.swift in Sources */,
